@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Advanced Kubernetes deployment strategies and production DevOps practices**
 
-- 📫 How to reach me **www.linkedin.com/in/chanuka-herath-b72a4434b**
+- 📫 How to reach me **www.linkedin.com/in/malan-chanuka-herath-b72a4434b**
 
 - About me **https://herathhmmc.github.io**
 
