@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/malan-chanuka-herath-b72a4434b**
 
-- About me **https://malanchanukaherath.github.io**
+- About me **https://malan-chanuka-herath.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
