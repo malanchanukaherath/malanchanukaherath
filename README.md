@@ -20,6 +20,7 @@
 ## 🔥 Featured Project
 
 ### 🍽️ Voleena Foods – Online Ordering System
+- https://www.voleenafoods.app
 - Full-stack food ordering platform (React + Node.js + MySQL)
 - Dockerized frontend & backend for consistent deployment
 - CI/CD pipeline using GitHub Actions
